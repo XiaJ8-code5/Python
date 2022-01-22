@@ -1,5 +1,5 @@
 import os,time,random
-os.system ('clear')
+os.system ('cls||clear')
 
 while True:
 	print ('\n来了老弟~, 开始负相桑害~!')
